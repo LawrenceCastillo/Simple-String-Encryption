@@ -1,2 +1,3 @@
 # Simple-String-Encryption
-Demonstration of simple Ceasar and Vigenere encryption techniques
+<p>Demonstration of simple encryption/ decryption techniques on<br>
+input strings using Caesar and Vigenere algorithms.</p>
